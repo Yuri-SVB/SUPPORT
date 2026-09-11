@@ -28,6 +28,14 @@ examples are machine-verified against the BIP-39 checksum algorithm.
 [Walkthrough](https://www.youtube.com/watch?v=9lJvw-8PZOA) of the protocol at
 version 0.4.0.
 
+**🧂 2026-07-05 — Namtso, the Sacred Salt**
+[Reference library and CLI](https://github.com/Yuri-SVB/namtso-the-sacred-salt)
+for a memorization-free, precomputation-resistant salt derived from the Bitcoin
+timechain: a person reproduces it from a single remembered date, harvests from a 
+local node, an offline headers bundle, or cross-checked public explorers, with 
+optional date cloaking so a remote source learns an interval rather than the day. 
+Shipped with frozen test vectors.
+
 **🎥 2026-06-28 — Great Wall demo 45: Dart interface**
 [Video](https://youtu.be/zoJF1Ex7hkI) of the reworked interface — the
 polished-UX milestone.

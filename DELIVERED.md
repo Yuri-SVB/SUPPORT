@@ -12,6 +12,27 @@ and nothing is listed here that has not.
 
 ---
 
+**🌀 2026-09-16 — *The Denial Spiral* v1 deposited**
+[Companion paper](https://doi.org/10.5281/zenodo.22778480) split out of the
+wrench-attack threat model: the obscurity class, the mechanism running from a
+norm of concealment through attacker disbelief to further coercion, the
+praxeological account of what kind of claim this is, the four mechanisms that
+censor the evidence — one of which survives publication — and the registry
+coding method behind the empirical grounding. Concept DOI; resolves to the
+latest version.
+
+**💀 2026-09-16 — *The Deadly Race* v4**
+[Fourth version](https://doi.org/10.5281/zenodo.22778256) of the coercion-resistance
+threat model, with a [changelog](https://github.com/Yuri-SVB/great-wall-docs/blob/main/papers/wrench-attack-threat-model/CHANGES-v4.md)
+absorbing v3, which shipped without one. The manuscript is now two papers, cut
+along the epistemic boundary. Three claims v2 stated loosely are made rigorous:
+the pivotal condition is non-completion rather than relative pace, the spend
+authority is a set of states rather than a private key, and the hostage surface
+needs a necessary *subset* of tokens rather than a single necessary one. A
+vendor now documents the naive tier in its own words, and the design comparison
+gains a column asking the criterion directly — which the four properties do not
+generate. No design's classification changed.
+
 **🔗 2026-08-13 — Three incidents merged into the physical-attacks registry**
 Revelles (FR), Trincity (TT), and Paris (FR) added to
 [`jlopp/physical-bitcoin-attacks`](https://github.com/jlopp/physical-bitcoin-attacks/pull/212)

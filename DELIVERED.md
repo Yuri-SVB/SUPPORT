@@ -12,6 +12,26 @@ and nothing is listed here that has not.
 
 ---
 
+**📰 2026-10-05 — Ten posts published, five languages each**
+A [reading series](https://yuri-svb.github.io/posts/) on coercion-resistant
+self-custody, fifty pages in English, Portuguese, Spanish, French and Italian:
+why the window for keeping a low profile has closed, what Kerckhoffs says about
+decoys and duress PINs, the arithmetic that makes a half-finished seizure price
+the holder's death, the Balland case, the RATIRL torture, a French tax-office
+database queried for people who had declared crypto gains, and what today's
+wrench-attack numbers extrapolate to. Each one ends at a DOI rather than at a
+PDF in a repository, and every figure carries its caveat in the same sentence:
+the registry is a press-sourced sample coded by headline, the categories
+overlap, and the fatality share is a floor.
+
+Two had run before and are included for completeness: *The Window Has Closed*
+on 17 September, and *Does Hiding Your Bitcoin Still Protect You?* in Brazilian
+Portuguese at [bitcoinblock.com.br](https://bitcoinblock.com.br/2026/09/22/esconder-bitcoin-ainda-protege/)
+on 22 September. The other eight are new. The arguments are the two open-access
+papers, [*The Deadly Race*](https://zenodo.org/doi/10.5281/zenodo.22018891) and
+[*The Denial Spiral*](https://zenodo.org/doi/10.5281/zenodo.22778480); the posts
+are the plain-language route in.
+
 **🌀 2026-09-16 — *The Denial Spiral* v1 deposited**
 [Companion paper](https://doi.org/10.5281/zenodo.22778480) split out of the
 wrench-attack threat model: the obscurity class, the mechanism running from a

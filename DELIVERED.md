@@ -26,7 +26,7 @@ only — the renderer displays the bits, which is exactly why it must never see
 a real seed.
 
 **📰 2026-10-05 — Ten posts published, five languages each**
-A [reading series](https://yuri-svb.github.io/posts/) also live at
+A [reading series](https://github.com/Yuri-SVB/great-wall-posts) also live at
 [yuri-svb.github.io](https://yuri-svb.github.io/posts/) on coercion-resistant
 self-custody, fifty pages in English, Portuguese, Spanish, French and Italian:
 why the window for keeping a low profile has closed, what Kerckhoffs says about

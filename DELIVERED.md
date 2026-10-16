@@ -12,6 +12,24 @@ and nothing is listed here that has not.
 
 ---
 
+**🔧 2026-10-16 — Formosa: Table Selector fixes and keyboard navigation**
+A screening pass over the [Formosa](https://github.com/Yuri-SVB/formosa)
+desktop application. Fixes: the shuffle of the grid keys, the only thing hiding
+the chosen word from an onlooker, was drawn from a Mersenne Twister whose every
+output is put on screen, which is enough to predict the next ones; it is now
+drawn from the system entropy source. Switching tabs no longer sends the grid
+back to the first word of a half-built phrase, so the next pick can no longer
+fill the wrong slot. Two tabs opened blank until clicked. An error mid-search
+could leave a cached theme searching the wrong words. Changing theme enabled
+Generate Phrase with nothing picked. `setup.py`, still Trezor's, could not run,
+and an installed copy would have carried no themes. `output.txt`, where Save
+writes seed phrases in plain text, was not git-ignored. Improvements:
+Backspace and a Back button give up the last key or word picked; the left and
+right arrows walk the phrase so an earlier word can be reviewed or swapped, with
+the compatibility warning recomputed from the words each time; Ctrl+PageUp and
+Ctrl+PageDown cycle the tabs; and the screen says which word the grid is on
+("Phrase 2, word 3 of 6") and names the syntactic slot being filled.
+
 **🎥 2026-10-16 — Great Wall demo 60: the rendered film, protocol 0.4.0**
 [Full-length film](https://www.youtube.com/watch?v=3sKMejVDF9s) from
 `great-wall-render`, an offline renderer that animates the encoding itself:

@@ -13,7 +13,8 @@ and nothing is listed here that has not.
 ---
 
 **📰 2026-10-05 — Ten posts published, five languages each**
-A [reading series](https://yuri-svb.github.io/posts/) on coercion-resistant
+A [reading series](https://yuri-svb.github.io/posts/) also live at
+[yuri-svb.github.io](https://yuri-svb.github.io/posts/) on coercion-resistant
 self-custody, fifty pages in English, Portuguese, Spanish, French and Italian:
 why the window for keeping a low profile has closed, what Kerckhoffs says about
 decoys and duress PINs, the arithmetic that makes a half-finished seizure price
@@ -33,7 +34,7 @@ papers, [*The Deadly Race*](https://zenodo.org/doi/10.5281/zenodo.22018891) and
 are the plain-language route in.
 
 **🌀 2026-09-16 — *The Denial Spiral* v1 deposited**
-[Companion paper](https://doi.org/10.5281/zenodo.22778480) split out of the
+[Companion paper](https://zenodo.org/doi/10.5281/zenodo.22778480) split out of the
 wrench-attack threat model: the obscurity class, the mechanism running from a
 norm of concealment through attacker disbelief to further coercion, the
 praxeological account of what kind of claim this is, the four mechanisms that
@@ -42,7 +43,7 @@ coding method behind the empirical grounding. Concept DOI; resolves to the
 latest version.
 
 **💀 2026-09-16 — *The Deadly Race* v4**
-[Fourth version](https://doi.org/10.5281/zenodo.22778256) of the coercion-resistance
+[Fourth version](https://zenodo.org/doi/10.5281/zenodo.22778256) of the coercion-resistance
 threat model, with a [changelog](https://github.com/Yuri-SVB/great-wall-docs/blob/main/papers/wrench-attack-threat-model/CHANGES-v4.md)
 absorbing v3, which shipped without one. The manuscript is now two papers, cut
 along the epistemic boundary. Three claims v2 stated loosely are made rigorous:

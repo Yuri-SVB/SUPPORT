@@ -12,6 +12,19 @@ and nothing is listed here that has not.
 
 ---
 
+**🎥 2026-10-16 — Great Wall demo 60: the rendered film, protocol 0.4.0**
+[Full-length film](https://www.youtube.com/watch?v=3sKMejVDF9s) from
+`great-wall-render`, an offline renderer that animates the encoding itself:
+islands appear, a split line lands, a bit picks a half and the camera dives,
+one bit at a time, a word every eleven bits, across the 0.4.0 orbit layout of
+sibling boards per stage. Explanatory cards state the argument outright rather
+than leaving it to inference: the encoding is one-to-one; the place is
+recognisable with the fractal in front of you and inexpressible without it, so
+threat or torture cannot extract what cannot be said; and the next fractal
+costs hours per stage, so nobody could have produced it faster. Demo entropy
+only — the renderer displays the bits, which is exactly why it must never see
+a real seed.
+
 **📰 2026-10-05 — Ten posts published, five languages each**
 A [reading series](https://yuri-svb.github.io/posts/) also live at
 [yuri-svb.github.io](https://yuri-svb.github.io/posts/) on coercion-resistant

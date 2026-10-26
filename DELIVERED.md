@@ -12,6 +12,27 @@ and nothing is listed here that has not.
 
 ---
 
+**🎨 2026-10-26 — Great Wallet: brightness controls**
+Brightness now falls steadily with escape count, so a deeper shell is never
+brighter than a shallower one. A slope control (`G`) joins the offset (`L`),
+and `A` turns on auto exposure, which fits both to what is on screen, as the
+film does. Deep render (`Alt+L`) now gives every escape count its own shade
+instead of merging them four at a time. great-wallet `c095bc0`.
+
+**🎥 2026-10-26 — Great Wall demo 70**
+[Full-length film](https://www.youtube.com/watch?v=Ry9wzHq1wOA) from
+`great-wall-render`, protocol 0.4.0. Each map is now toured from its outer
+shell to the canonical leaf through a chain of landmark features, and every
+frame is lit from its own escape counts so shells read as distinct shades.
+Demo entropy only.
+
+**🔐 2026-10-25 — Great Wall protocol 0.5.0**
+The orbit's state widens to 512 bits (SHA-512), and each stage's master
+secret is now separate from the value that advances the orbit, so a leaked
+key no longer hands out the next stage's orbit point. Keys leave only through
+a label-salted export. Core, its Python reference, frozen test vectors and the
+wallet moved together; 0.4.0 setups must be rebuilt. great-wallet `aa431ab`.
+
 **🎥 2026-10-20 — Great Wall demo 65: the rendered film, narrated**
 [Full-length film](https://youtu.be/j8Fgh9jPZEo) from `great-wall-render`,
 reworked since demo 60 to sit closer to the real app. After each 32-bit
